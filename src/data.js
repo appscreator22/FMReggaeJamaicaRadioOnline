@@ -4,12 +4,12 @@ function chillHop() {
     return [
 
         {
-            name:"Root Legacy",
-            artist: "RootLegacy",
+            name:"Raggakings Radio",
+            artist: "RaggakingsRadio",
             cover: "https://img.freepik.com/psd-gratis/maqueta-reproductor-multimedia-rose-gold-maqueta-reproductor-multimedia-rose-gold-3d_106244-1745.jpg",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
-            audio: "http://rootslegacy.fr:8080/stream/1/",
+            audio: "https://raggakings.radio:8443/stream.ogg",
             active: true,
         },
         {
@@ -114,7 +114,7 @@ function chillHop() {
         {
             name:"Conexao Reggae",
             artist: "ConexaoReggae",
-            cover: "ttps://img.freepik.com/vector-gratis/ilustracion-realista-auriculares-inalambricos_1284-20763.jpg",
+            cover: "https://img.freepik.com/psd-gratis/maqueta-reproductor-multimedia-rose-gold-maqueta-reproductor-multimedia-rose-gold-3d_106244-1745.jpg",
             id: uuidv4(),
             color: ["#FDE1A9", "#A46874"],
             audio: "https://stm13.xcast.com.br:7016/stream/1/",
