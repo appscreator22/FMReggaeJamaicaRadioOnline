@@ -4,10 +4,9 @@ function chillHop() {
     return [
 
         {
-            name:"ROOT LEGACY",
-            artist: "ROOTLEGACY",
-            cover: "https://img.freepik.com/psd-gratis/maqueta-reproductor-multimedia-rose-gold-maqueta-reproductor-multimedia-rose-gold-3d_106244-1745.jpg
-",
+            name:"Root Legacy",
+            artist: "RootLegacy",
+            cover: "https://img.freepik.com/psd-gratis/maqueta-reproductor-multimedia-rose-gold-maqueta-reproductor-multimedia-rose-gold-3d_106244-1745.jpg",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
             audio: "http://rootslegacy.fr:8080/stream/1/",
